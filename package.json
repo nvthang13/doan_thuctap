@@ -9,7 +9,7 @@
   "license": "ISC",
   "author": "vanthang",
   "type": "commonjs",
-  "main": "app.js",
+  "main": "dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/app.js",
